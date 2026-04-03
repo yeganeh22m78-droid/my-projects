@@ -37,7 +37,7 @@ pip install numpy matplotlib pygame
 
 Run the application:
 ```bash
-python "my project.py"
+python main.py
 ```
 
 ### First Time Setup
